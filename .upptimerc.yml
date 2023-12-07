@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.linkos.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/openlinkos/uptime/master/assets/linkos.png
   name: LinkOS Uptime
   introTitle: "**LinKOS** is a suite of open-source projects centered around cloud-native technologies. "
   introMessage: LinKOS proudly offers a series of community-driven services to assist with cloud-native workflows, especially tailored for regions with compromised network quality. 
