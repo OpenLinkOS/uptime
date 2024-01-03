@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 412,
-    "timeDay": 402,
-    "timeWeek": 295,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 407,
+    "timeDay": 249,
+    "timeWeek": 306,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 419,
-    "timeDay": 404,
-    "timeWeek": 450,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "time": 418,
+    "timeDay": 369,
+    "timeWeek": 461,
+    "timeMonth": 418,
+    "timeYear": 418,
     "dailyMinutesDown": {
       "2023-12-19": 42
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 375,
-    "timeDay": 429,
-    "timeWeek": 307,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "time": 374,
+    "timeDay": 355,
+    "timeWeek": 318,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -71,8 +71,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 380,
-    "timeDay": 403,
-    "timeWeek": 290,
+    "timeDay": 405,
+    "timeWeek": 326,
     "timeMonth": 380,
     "timeYear": 380,
     "dailyMinutesDown": {
@@ -85,16 +85,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/quay.linkos.org.ico",
     "slug": "link-os-quay-registry-mirror",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 299,
-    "timeDay": 419,
-    "timeWeek": 232,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 302,
+    "timeDay": 409,
+    "timeWeek": 264,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2023-12-19": 36
     }
