@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 399,
-    "timeDay": 167,
-    "timeWeek": 270,
-    "timeMonth": 399,
-    "timeYear": 399,
+    "time": 390,
+    "timeDay": 122,
+    "timeWeek": 251,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gcr.linkos.org.ico",
     "slug": "link-os-gcr-registry-mirror",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 414,
-    "timeDay": 292,
-    "timeWeek": 443,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 404,
+    "timeDay": 112,
+    "timeWeek": 300,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2023-12-19": 42
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 367,
-    "timeDay": 158,
-    "timeWeek": 289,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "time": 359,
+    "timeDay": 112,
+    "timeWeek": 262,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 377,
-    "timeDay": 268,
-    "timeWeek": 304,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "time": 372,
+    "timeDay": 222,
+    "timeWeek": 301,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 298,
-    "timeDay": 153,
-    "timeWeek": 252,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 295,
+    "timeDay": 213,
+    "timeWeek": 246,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2023-12-19": 36
     }
