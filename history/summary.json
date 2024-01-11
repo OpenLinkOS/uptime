@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 378,
-    "timeDay": 287,
-    "timeWeek": 257,
-    "timeMonth": 349,
-    "timeYear": 378,
+    "time": 375,
+    "timeDay": 248,
+    "timeWeek": 269,
+    "timeMonth": 348,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gcr.linkos.org.ico",
     "slug": "link-os-gcr-registry-mirror",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.91%",
+    "uptimeYear": "99.92%",
     "time": 382,
-    "timeDay": 289,
-    "timeWeek": 231,
-    "timeMonth": 353,
+    "timeDay": 358,
+    "timeWeek": 240,
+    "timeMonth": 359,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2023-12-19": 42
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghcr.linkos.org.ico",
     "slug": "link-os-ghcr-registry-mirror",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 347,
-    "timeDay": 164,
-    "timeWeek": 233,
-    "timeMonth": 318,
-    "timeYear": 347,
+    "uptimeYear": "99.92%",
+    "time": 350,
+    "timeDay": 429,
+    "timeWeek": 272,
+    "timeMonth": 326,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 351,
-    "timeDay": 174,
-    "timeWeek": 226,
-    "timeMonth": 328,
-    "timeYear": 351,
+    "time": 353,
+    "timeDay": 430,
+    "timeWeek": 249,
+    "timeMonth": 336,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 288,
-    "timeDay": 174,
-    "timeWeek": 224,
-    "timeMonth": 261,
-    "timeYear": 288,
+    "time": 290,
+    "timeDay": 374,
+    "timeWeek": 256,
+    "timeMonth": 269,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2023-12-19": 36
     }
