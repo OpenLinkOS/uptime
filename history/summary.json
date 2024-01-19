@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.linkos.org.ico",
     "slug": "link-os-docker-registry-mirror",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.90%",
-    "time": 365,
-    "timeDay": 114,
-    "timeWeek": 318,
+    "uptimeYear": "99.91%",
+    "time": 366,
+    "timeDay": 400,
+    "timeWeek": 328,
     "timeMonth": 304,
-    "timeYear": 365,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2024-01-15": 17,
       "2023-12-19": 41
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.90%",
-    "time": 368,
-    "timeDay": 112,
-    "timeWeek": 301,
-    "timeMonth": 325,
-    "timeYear": 368,
+    "time": 365,
+    "timeDay": 245,
+    "timeWeek": 307,
+    "timeMonth": 321,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2024-01-15": 17,
       "2023-12-19": 42
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 337,
-    "timeDay": 108,
-    "timeWeek": 271,
+    "time": 338,
+    "timeDay": 350,
+    "timeWeek": 291,
     "timeMonth": 279,
-    "timeYear": 337,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 343,
-    "timeDay": 208,
-    "timeWeek": 285,
-    "timeMonth": 294,
-    "timeYear": 343,
+    "time": 341,
+    "timeDay": 274,
+    "timeWeek": 295,
+    "timeMonth": 291,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 373,
-    "timeDay": 104,
+    "time": 372,
+    "timeDay": 357,
     "timeWeek": 823,
-    "timeMonth": 374,
-    "timeYear": 373,
+    "timeMonth": 378,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2023-12-19": 36
     }
