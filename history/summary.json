@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 360,
-    "timeMonth": 320,
-    "timeYear": 364,
+    "time": 365,
+    "timeDay": 423,
+    "timeWeek": 365,
+    "timeMonth": 324,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2024-01-15": 17,
       "2023-12-19": 41
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 354,
-    "timeDay": 356,
-    "timeWeek": 338,
-    "timeMonth": 294,
-    "timeYear": 354,
+    "time": 352,
+    "timeDay": 246,
+    "timeWeek": 318,
+    "timeMonth": 292,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2024-01-15": 17,
       "2023-12-19": 42
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 327,
-    "timeDay": 356,
-    "timeWeek": 325,
-    "timeMonth": 281,
-    "timeYear": 327,
+    "time": 329,
+    "timeDay": 424,
+    "timeWeek": 330,
+    "timeMonth": 289,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 331,
-    "timeDay": 356,
-    "timeWeek": 315,
-    "timeMonth": 283,
-    "timeYear": 331,
+    "time": 333,
+    "timeDay": 407,
+    "timeWeek": 316,
+    "timeMonth": 291,
+    "timeYear": 333,
     "dailyMinutesDown": {
       "2023-12-19": 41
     }
@@ -87,15 +87,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/quay.linkos.org.ico",
     "slug": "link-os-quay-registry-mirror",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 355,
-    "timeDay": 365,
-    "timeWeek": 302,
-    "timeMonth": 404,
+    "timeDay": 362,
+    "timeWeek": 304,
+    "timeMonth": 410,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2023-12-19": 36
