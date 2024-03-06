@@ -4,9 +4,9 @@
     "url": "https://docker.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/docker.linkos.org.ico",
     "slug": "link-os-docker-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 387,
     "timeYear": 373,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-01-15": 17,
       "2023-12-19": 41
     }
@@ -25,9 +26,9 @@
     "url": "https://gcr.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/gcr.linkos.org.ico",
     "slug": "link-os-gcr-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -37,6 +38,7 @@
     "timeMonth": 363,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-01-15": 17,
       "2023-12-19": 42
     }
@@ -46,9 +48,9 @@
     "url": "https://ghcr.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/ghcr.linkos.org.ico",
     "slug": "link-os-ghcr-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -58,6 +60,7 @@
     "timeMonth": 363,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2023-12-19": 41
     }
   },
@@ -66,9 +69,9 @@
     "url": "https://k8s.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/k8s.linkos.org.ico",
     "slug": "link-os-k8-s-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -78,6 +81,7 @@
     "timeMonth": 392,
     "timeYear": 348,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2023-12-19": 41
     }
   },
@@ -86,7 +90,7 @@
     "url": "https://quay.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/quay.linkos.org.ico",
     "slug": "link-os-quay-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -98,6 +102,7 @@
     "timeMonth": 373,
     "timeYear": 357,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2023-12-19": 36
     }
   }
