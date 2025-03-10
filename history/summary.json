@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/docker.linkos.org.ico",
     "slug": "link-os-docker-registry-mirror",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "97.00%",
     "time": 669,
-    "timeDay": 850,
-    "timeWeek": 607,
-    "timeMonth": 595,
+    "timeDay": 565,
+    "timeWeek": 642,
+    "timeMonth": 594,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-01-22": 18,
@@ -37,8 +37,7 @@
       "2024-05-18": 52,
       "2024-05-06": 18,
       "2024-05-04": 260,
-      "2024-03-11": 813,
-      "2024-03-10": 1440
+      "2024-03-11": 813
     }
   },
   {
@@ -51,10 +50,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.80%",
+    "uptimeYear": "97.07%",
     "time": 616,
-    "timeDay": 504,
-    "timeWeek": 526,
+    "timeDay": 580,
+    "timeWeek": 503,
     "timeMonth": 718,
     "timeYear": 677,
     "dailyMinutesDown": {
@@ -79,8 +78,7 @@
       "2024-05-18": 16,
       "2024-05-06": 17,
       "2024-05-04": 260,
-      "2024-03-11": 813,
-      "2024-03-10": 1440
+      "2024-03-11": 813
     }
   },
   {
@@ -93,12 +91,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.72%",
+    "uptimeYear": "97.00%",
     "time": 597,
-    "timeDay": 455,
+    "timeDay": 553,
     "timeWeek": 562,
-    "timeMonth": 559,
-    "timeYear": 656,
+    "timeMonth": 555,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2025-01-22": 18,
       "2025-01-16": 428,
@@ -121,8 +119,7 @@
       "2024-05-18": 15,
       "2024-05-06": 17,
       "2024-05-04": 260,
-      "2024-03-11": 814,
-      "2024-03-10": 1440
+      "2024-03-11": 814
     }
   },
   {
@@ -131,15 +128,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/k8s.linkos.org.ico",
     "slug": "link-os-k8-s-registry-mirror",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.75%",
+    "uptimeYear": "97.02%",
     "time": 520,
-    "timeDay": 177,
-    "timeWeek": 389,
-    "timeMonth": 481,
+    "timeDay": 505,
+    "timeWeek": 419,
+    "timeMonth": 482,
     "timeYear": 559,
     "dailyMinutesDown": {
       "2025-01-22": 18,
@@ -161,8 +158,7 @@
       "2024-05-24": 1182,
       "2024-05-06": 16,
       "2024-05-04": 260,
-      "2024-03-11": 814,
-      "2024-03-10": 1440
+      "2024-03-11": 814
     }
   },
   {
@@ -171,14 +167,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/quay.linkos.org.ico",
     "slug": "link-os-quay-registry-mirror",
     "status": "up",
-    "uptime": "96.78%",
+    "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "97.00%",
     "time": 517,
-    "timeDay": 125,
-    "timeWeek": 437,
+    "timeDay": 481,
+    "timeWeek": 478,
     "timeMonth": 503,
     "timeYear": 554,
     "dailyMinutesDown": {
@@ -200,8 +196,7 @@
       "2024-05-24": 1182,
       "2024-05-06": 16,
       "2024-05-04": 260,
-      "2024-03-11": 814,
-      "2024-03-10": 1440
+      "2024-03-11": 814
     }
   }
 ]
