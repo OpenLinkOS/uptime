@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
-    "time": 677,
-    "timeDay": 705,
-    "timeWeek": 1160,
-    "timeMonth": 723,
+    "time": 678,
+    "timeDay": 822,
+    "timeWeek": 1207,
+    "timeMonth": 736,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2025-01-22": 18,
@@ -35,8 +35,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1184,
       "2024-05-18": 52,
-      "2024-05-06": 18,
-      "2024-05-04": 260
+      "2024-05-06": 18
     }
   },
   {
@@ -45,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gcr.linkos.org.ico",
     "slug": "link-os-gcr-registry-mirror",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.49%",
-    "time": 624,
-    "timeDay": 221,
-    "timeWeek": 510,
-    "timeMonth": 570,
+    "time": 625,
+    "timeDay": 480,
+    "timeWeek": 483,
+    "timeMonth": 565,
     "timeYear": 704,
     "dailyMinutesDown": {
       "2025-01-22": 18,
@@ -75,8 +74,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1183,
       "2024-05-18": 16,
-      "2024-05-06": 17,
-      "2024-05-04": 260
+      "2024-05-06": 17
     }
   },
   {
@@ -85,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghcr.linkos.org.ico",
     "slug": "link-os-ghcr-registry-mirror",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
-    "time": 614,
-    "timeDay": 733,
-    "timeWeek": 1073,
-    "timeMonth": 819,
-    "timeYear": 696,
+    "time": 615,
+    "timeDay": 479,
+    "timeWeek": 1050,
+    "timeMonth": 821,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2025-01-22": 18,
       "2025-01-16": 428,
@@ -115,8 +113,7 @@
       "2024-05-25": 1440,
       "2024-05-24": 1183,
       "2024-05-18": 15,
-      "2024-05-06": 17,
-      "2024-05-04": 260
+      "2024-05-06": 17
     }
   },
   {
@@ -125,15 +122,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/k8s.linkos.org.ico",
     "slug": "link-os-k8-s-registry-mirror",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.44%",
-    "time": 524,
-    "timeDay": 485,
-    "timeWeek": 538,
-    "timeMonth": 532,
+    "time": 525,
+    "timeDay": 484,
+    "timeWeek": 534,
+    "timeMonth": 525,
     "timeYear": 582,
     "dailyMinutesDown": {
       "2025-01-22": 18,
@@ -153,8 +150,7 @@
       "2024-05-26": 934,
       "2024-05-25": 1440,
       "2024-05-24": 1182,
-      "2024-05-06": 16,
-      "2024-05-04": 260
+      "2024-05-06": 16
     }
   },
   {
@@ -168,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.42%",
-    "time": 521,
-    "timeDay": 558,
-    "timeWeek": 602,
-    "timeMonth": 526,
-    "timeYear": 580,
+    "time": 522,
+    "timeDay": 446,
+    "timeWeek": 580,
+    "timeMonth": 531,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-01-16": 428,
       "2025-01-15": 1440,
@@ -190,8 +186,7 @@
       "2024-05-26": 934,
       "2024-05-25": 1440,
       "2024-05-24": 1182,
-      "2024-05-06": 16,
-      "2024-05-04": 260
+      "2024-05-06": 16
     }
   }
 ]
