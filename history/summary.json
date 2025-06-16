@@ -6,9 +6,9 @@
     "slug": "link-os-docker-registry-mirror",
     "status": "up",
     "uptime": "98.65%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "97.01%",
-    "uptimeMonth": "95.02%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "97.94%",
     "time": 808,
     "timeDay": 968,
@@ -16,7 +16,7 @@
     "timeMonth": 1003,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-06-15": 36,
+      "2025-06-15": 27,
       "2025-06-14": 63,
       "2025-06-13": 79,
       "2025-06-12": 45,
@@ -50,7 +50,7 @@
       "2025-01-11": 1440,
       "2025-01-10": 251,
       "2024-11-01": 158,
-      "2024-10-31": 600
+      "2024-10-31": 617
     }
   },
   {
