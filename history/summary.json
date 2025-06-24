@@ -4,17 +4,17 @@
     "url": "https://docker.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/docker.linkos.org.ico",
     "slug": "link-os-docker-registry-mirror",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "92.49%",
-    "uptimeWeek": "95.10%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "92.48%",
+    "uptimeWeek": "95.29%",
     "uptimeMonth": "94.58%",
-    "uptimeYear": "99.48%",
-    "time": 857,
-    "timeDay": 960,
-    "timeWeek": 965,
-    "timeMonth": 997,
-    "timeYear": 847,
+    "uptimeYear": "99.49%",
+    "time": 863,
+    "timeDay": 1316,
+    "timeWeek": 1024,
+    "timeMonth": 1010,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2025-06-24": 107,
       "2025-06-22": 72,
@@ -47,7 +47,7 @@
       "2025-05-23": 134,
       "2025-05-22": 50,
       "2025-05-21": 84,
-      "2025-05-20": 83
+      "2025-05-20": 41
     }
   },
   {
