@@ -8,12 +8,12 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.10%",
+    "uptimeMonth": "96.16%",
     "uptimeYear": "99.30%",
     "time": 822,
-    "timeDay": 599,
-    "timeWeek": 416,
-    "timeMonth": 881,
+    "timeDay": 465,
+    "timeWeek": 403,
+    "timeMonth": 870,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2025-07-07": 23,
@@ -60,15 +60,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gcr.linkos.org.ico",
     "slug": "link-os-gcr-registry-mirror",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.00%",
     "uptimeYear": "98.08%",
     "time": 685,
-    "timeDay": 405,
-    "timeWeek": 382,
-    "timeMonth": 994,
+    "timeDay": 294,
+    "timeWeek": 374,
+    "timeMonth": 993,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2025-07-07": 21,
@@ -87,8 +87,7 @@
       "2024-11-01": 111,
       "2024-10-31": 452,
       "2024-10-30": 291,
-      "2024-08-28": 414,
-      "2024-07-16": 24
+      "2024-08-28": 414
     }
   },
   {
@@ -97,14 +96,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/ghcr.linkos.org.ico",
     "slug": "link-os-ghcr-registry-mirror",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "97.99%",
     "time": 639,
-    "timeDay": 430,
-    "timeWeek": 349,
+    "timeDay": 527,
+    "timeWeek": 375,
     "timeMonth": 440,
     "timeYear": 571,
     "dailyMinutesDown": {
@@ -125,8 +124,7 @@
       "2024-11-01": 253,
       "2024-10-31": 811,
       "2024-10-30": 209,
-      "2024-08-28": 414,
-      "2024-07-16": 24
+      "2024-08-28": 414
     }
   },
   {
@@ -141,9 +139,9 @@
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.03%",
     "time": 599,
-    "timeDay": 478,
-    "timeWeek": 379,
-    "timeMonth": 1174,
+    "timeDay": 269,
+    "timeWeek": 368,
+    "timeMonth": 1170,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2025-07-03": 188,
@@ -162,8 +160,7 @@
       "2024-11-01": 212,
       "2024-10-31": 722,
       "2024-10-30": 229,
-      "2024-08-28": 414,
-      "2024-07-16": 24
+      "2024-08-28": 414
     }
   },
   {
@@ -177,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.01%",
-    "time": 562,
-    "timeDay": 226,
-    "timeWeek": 313,
-    "timeMonth": 865,
-    "timeYear": 521,
+    "time": 561,
+    "timeDay": 173,
+    "timeWeek": 284,
+    "timeMonth": 863,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2025-07-03": 188,
       "2025-07-02": 588,
@@ -197,8 +194,7 @@
       "2024-11-01": 285,
       "2024-10-31": 697,
       "2024-10-30": 322,
-      "2024-08-28": 414,
-      "2024-07-16": 24
+      "2024-08-28": 414
     }
   }
 ]
