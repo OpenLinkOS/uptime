@@ -1,7 +1,7 @@
 url: https://ghcr.linkos.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-03T05:56:06.598Z
+status: up
+code: 200
+responseTime: 349
+lastUpdated: 2025-10-03T06:21:54.730Z
 startTime: 2023-12-07T09:20:49.152Z
 generator: Upptime <https://github.com/upptime/upptime>
