@@ -1,7 +1,7 @@
 url: https://gcr.linkos.org
-status: up
-code: 200
-responseTime: 581
-lastUpdated: 2026-01-27T23:25:30.575Z
+status: down
+code: 502
+responseTime: 403
+lastUpdated: 2026-01-28T21:01:29.576Z
 startTime: 2023-12-07T09:20:48.139Z
 generator: Upptime <https://github.com/upptime/upptime>
