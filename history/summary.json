@@ -4,17 +4,17 @@
     "url": "https://docker.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/docker.linkos.org.ico",
     "slug": "link-os-docker-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "99.64%",
-    "time": 532,
-    "timeDay": 201,
-    "timeWeek": 346,
-    "timeMonth": 428,
-    "timeYear": 434,
+    "time": 605,
+    "timeDay": 22703,
+    "timeWeek": 5954,
+    "timeMonth": 1873,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2025-07-16": 26,
       "2025-07-19": 79,
@@ -69,7 +69,8 @@
       "2026-03-08": 198,
       "2026-05-16": 63,
       "2026-07-09": 12,
-      "2026-07-08": 104
+      "2026-07-08": 104,
+      "2026-07-14": 7
     }
   },
   {
@@ -77,17 +78,17 @@
     "url": "https://gcr.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/gcr.linkos.org.ico",
     "slug": "link-os-gcr-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.66%",
-    "time": 485,
-    "timeDay": 179,
-    "timeWeek": 451,
-    "timeMonth": 459,
-    "timeYear": 435,
+    "time": 534,
+    "timeDay": 15147,
+    "timeWeek": 4159,
+    "timeMonth": 1416,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2025-07-16": 26,
       "2025-07-19": 79,
@@ -139,7 +140,8 @@
       "2026-03-04": 32,
       "2026-03-08": 198,
       "2026-07-09": 12,
-      "2026-07-08": 99
+      "2026-07-08": 99,
+      "2026-07-14": 5
     }
   },
   {
@@ -147,17 +149,17 @@
     "url": "https://ghcr.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/ghcr.linkos.org.ico",
     "slug": "link-os-ghcr-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.66%",
-    "time": 448,
-    "timeDay": 296,
-    "timeWeek": 337,
-    "timeMonth": 399,
-    "timeYear": 412,
+    "time": 498,
+    "timeDay": 15257,
+    "timeWeek": 4072,
+    "timeMonth": 1360,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2025-07-16": 25,
       "2025-07-19": 79,
@@ -209,7 +211,8 @@
       "2026-03-04": 32,
       "2026-03-08": 198,
       "2026-07-09": 12,
-      "2026-07-08": 94
+      "2026-07-08": 94,
+      "2026-07-14": 4
     }
   },
   {
@@ -217,17 +220,17 @@
     "url": "https://k8s.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/k8s.linkos.org.ico",
     "slug": "link-os-k8-s-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.67%",
-    "time": 461,
-    "timeDay": 144,
-    "timeWeek": 273,
-    "timeMonth": 371,
-    "timeYear": 393,
+    "time": 511,
+    "timeDay": 15158,
+    "timeWeek": 4010,
+    "timeMonth": 1332,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2025-07-16": 25,
       "2025-07-19": 77,
@@ -278,7 +281,8 @@
       "2026-02-25": 59,
       "2026-03-08": 198,
       "2026-07-09": 13,
-      "2026-07-08": 89
+      "2026-07-08": 89,
+      "2026-07-14": 2
     }
   },
   {
@@ -286,17 +290,17 @@
     "url": "https://quay.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/quay.linkos.org.ico",
     "slug": "link-os-quay-registry-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.68%",
-    "time": 430,
-    "timeDay": 324,
-    "timeWeek": 268,
-    "timeMonth": 346,
-    "timeYear": 385,
+    "time": 480,
+    "timeDay": 15238,
+    "timeWeek": 4003,
+    "timeMonth": 1308,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2025-07-16": 24,
       "2025-07-19": 77,
@@ -347,7 +351,8 @@
       "2026-03-04": 31,
       "2026-03-08": 198,
       "2026-07-09": 13,
-      "2026-07-08": 84
+      "2026-07-08": 84,
+      "2026-07-14": 0
     }
   }
 ]
