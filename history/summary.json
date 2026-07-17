@@ -4,9 +4,9 @@
     "url": "https://docker.linkos.org",
     "icon": "https://icons.duckduckgo.com/ip3/docker.linkos.org.ico",
     "slug": "link-os-docker-registry-mirror",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.62%",
@@ -69,7 +69,8 @@
       "2026-05-16": 63,
       "2026-07-09": 12,
       "2026-07-08": 104,
-      "2026-07-14": 106
+      "2026-07-14": 106,
+      "2026-07-17": 0
     }
   },
   {
